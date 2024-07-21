@@ -17,7 +17,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(cookieParser());
   const corsOption = {
-     origin: 'https://chatapp-ashy-sigma.vercel.app/',
+     origin: 'https://chatapp-ashy-sigma.vercel.app',
      credentials: true
  };
  app.use(cors(corsOption));
