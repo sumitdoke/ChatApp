@@ -1,4 +1,5 @@
 # Real-Time Chat Application
+![image alt](https://github.com/sumitdoke/ChatApp/blob/main/login.png)
 
 ## Overview
 
