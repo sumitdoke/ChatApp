@@ -106,11 +106,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-### Customization Tips
-
-- **Repository Links**: Replace `yourusername` in the clone command with your GitHub username or the appropriate path to your repository.
-- **Environment Variables**: Adjust the environment variables section based on what your application requires.
-- **Additional Features**: Add any other features or functionalities that are specific to your application.
-- **Screenshots**: Consider adding screenshots or GIFs of your application in action to enhance the README.
-
-Feel free to further customize this template to better fit your project's specific details and requirements!
