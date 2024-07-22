@@ -24,6 +24,16 @@ Welcome to the Real-Time Chat Application, a dynamic platform built on the MERN 
 - **Real-Time Communication**: Socket.IO
 - **Styling**: CSS, Bootstrap (or any preferred styling framework)
 
+## Usage
+
+- **Sign Up**: Create a new account by providing your details.
+- **Login**: Access your account using your credentials.
+- **Chat**: Engage in real-time conversations with other users.
+- **Profile Management**: View and edit your profile, as well as explore other users' profiles.
+- **Online Users**: Check the list of users currently online to enhance your chat experience.
+- **Group Chats**: Start or join group chats for collaborative discussions.
+- **Search Users and Messages**: Utilize the search feature to find specific users or messages quickly.
+
 ## Installation
 
 ### Prerequisites
@@ -86,16 +96,6 @@ npm install
 ```bash
 npm start
 ```
-
-## Usage
-
-- **Sign Up**: Create a new account by providing your details.
-- **Login**: Access your account using your credentials.
-- **Chat**: Engage in real-time conversations with other users.
-- **Profile Management**: View and edit your profile, as well as explore other users' profiles.
-- **Online Users**: Check the list of users currently online to enhance your chat experience.
-- **Group Chats**: Start or join group chats for collaborative discussions.
-- **Search Users and Messages**: Utilize the search feature to find specific users or messages quickly.
 
 ## Contributing
 
