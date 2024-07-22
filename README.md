@@ -34,6 +34,10 @@ Welcome to the Real-Time Chat Application, a dynamic platform built on the MERN 
 - **Group Chats**: Start or join group chats for collaborative discussions.
 - **Search Users and Messages**: Utilize the search feature to find specific users or messages quickly.
 
+![image alt](https://github.com/sumitdoke/ChatApp/blob/main/signup.png)
+![image alt](https://github.com/sumitdoke/ChatApp/blob/main/Home.png)
+![image alt](https://github.com/sumitdoke/ChatApp/blob/main/chat.png)
+![image alt](https://github.com/sumitdoke/ChatApp/blob/main/searching.png)
 ## Installation
 
 ### Prerequisites
