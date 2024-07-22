@@ -9,6 +9,7 @@ const io = new Server(server, {
     cors:{
         origin:['http://localhost:3000', 'https://chatapp-ashy-sigma.vercel.app'],
         methods:['GET', 'POST'],
+        credentials: true
     },
 });
 
